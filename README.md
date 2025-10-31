@@ -55,5 +55,5 @@ Each record in these datasets includes features like duration, protocol type, se
 ## 🚀 How to Run  
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/yourusername/intrusion-detection-ml.git
+   git clone https://github.com/skjbcads/Intrusion-Detection-in-Networks-Using-Machine-Learning-.git
 
