@@ -14,11 +14,10 @@ It analyzes network traffic data to classify behavior as **normal** or **suspici
 ---
 
 ## 🧠 Machine Learning Models Used  
-- Decision Tree  
-- Random Forest  
-- Support Vector Machine (SVM)  
-- XGBoost  
-- (Optional) Ensemble approach for better accuracy  
+- Gradient Boosting  
+- LightGBM  
+- Random Forest
+- Support Vector Machine (SVM)
 
 ---
 
@@ -40,7 +39,7 @@ Each record in these datasets includes features like duration, protocol type, se
 ---
 
 ## 📊 Results  
-- Ensemble models such as **Random Forest** and **XGBoost** achieved the best performance.  
+- Models such as **Gradient Boosting** and **LightGBM** achieved the best performance.  
 - The system effectively detects attacks like **DoS**, **Probe**, **R2L**, and **U2R**.  
 
 ---
